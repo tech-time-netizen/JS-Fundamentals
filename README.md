@@ -1,1 +1,1 @@
-# Firsyt javascript file
+# First javascript file
