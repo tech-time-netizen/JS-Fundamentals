@@ -6,5 +6,6 @@ function add(arg1, arg2) {
 }
 if (isNaN(arg1) || isNaN(arg2)) {
   console.log("NaN");
+} else {
+    console.log(add(arg1, arg2));
 }
-console.log(add(arg1, arg2));
